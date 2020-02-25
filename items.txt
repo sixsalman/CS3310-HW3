@@ -1,0 +1,751 @@
+Item name,Min Strength,Max Strength,Rarity
+Hatchet,134,163,Fine
+Hatchet,212,259,Masterwork
+Bloodsaw Cleaver,226,276,Masterwork
+Hatchet,227,278,Fine
+Hatchet,248,303,Masterwork
+Ebon Vanguard Axe,358,437,Rare
+Steam Axe,358,437,Rare
+Pirate Hatchet,358,437,Rare
+Shiverpeak Hatchet,358,437,Rare
+Lionguard Axe,358,437,Rare
+Lionguard Axe,358,437,Rare
+Glyphic Axe,358,437,Rare
+Krytan Axe,358,437,Rare
+Glyphic Axe,358,437,Rare
+Thunderhead Axe,440,538,Fine
+Caer Axe,440,538,Fine
+Fine Caer Axe,477,583,Masterwork
+Wren Axe,440,538,Fine
+Potatlan's Better Axe,477,583,Masterwork
+Potatlan's Axe,440,538,Fine
+Lionguard Axe,534,653,Rare
+Ebon Vanguard Axe,534,653,Rare
+verdant Axe,140,171,Fine
+Orewood Axe,142,174,Fine
+Blood Legion Axe,150,183,Fine
+Tamini Axe,157,191,Fine
+Fireman's Axe,171,209,Fine
+Hatchet,196,239,Fine
+Lionguard Axe,534,653,Rare
+Verdant Axe,534,653,Rare
+Flame Cleaver,534,653,Rare
+Verdant Axe,534,653,Rare
+Norn Axe,534,653,Rare
+Aureate Axe,534,653,Rare
+Thunderhead Axe,606,740,Masterwork
+Wren Axe,606,740,Masterwork
+Adamant Guard Axe,759,928,Rare
+Wolfborn Axe,759,928,Rare
+Ebon Vanguard Axe,759,928,Rare
+Warden Axe,759,928,Rare
+Bandit Cleaver,759,928,Rare
+Bandit Cleaver,654,799,Fine
+Bandit Cleaver,706,863,Masterwork
+Lionguard Axe,759,928,Rare
+Togatl Trident,216,238,Fine
+Ebon Vanguard Trident,378,417,Rare
+Steam Trident,378,417,Rare
+Pirate Trident,378,417,Rare
+Shiverpeak Trident,378,417,Rare
+Lionguard Trident,378,417,Rare
+Lionguard Trident,378,417,Rare
+Glyphic Trispear,378,417,Rare
+Krytan Trident,378,417,Rare
+Glyphic Trispear,378,417,Rare
+Hunter's Trident,474,524,Fine
+Fine Hunter's Trident,513,567,Masterwork
+Lionguard Trident,564,623,Rare
+Ebon Vanguard Trident,564,623,Rare
+Seraph Axe,759,928,Rare
+Peacemaker's Axe,759,928,Rare
+Lionguard Axe,759,928,Rare
+Trident,165,183,Fine
+Hylek Fish Poker,169,187,Fine
+Iron Legion Trident,169,187,Fine
+Quetzal Trident,169,187,Fine
+Truffle-Baited Trident,234,258,Masterwork
+Lionguard Trident,564,623,Rare
+Verdant Trident,564,623,Rare
+Flame Trident,564,623,Rare
+Verdant Trident,564,623,Rare
+Norn Trident,564,623,Rare
+Aureate Trident,564,623,Rare
+OooOoo Chum Trispear,552,610,Masterwork
+Chum Trispear,510,564,Fine
+Adamant Guard Trident,802,886,Rare
+Wolfborn Trident,802,886,Rare
+Ebon Vanguard Trident,802,886,Rare
+Warden Trident,802,886,Rare
+Black Earth Trident,690,762,Fine
+Black Earth Trident,745,823,Masterwork
+Black Earth Trident,802,886,Rare
+Lionguard Trident,802,886,Rare
+Seraph Trident,802,886,Rare
+Peacemaker's Trident,802,886,Rare
+Lionguard Trident,802,886,Rare
+Opticalium Focusing Stick,156,176,Fine
+Warden's Staff,161,181,Fine
+Charged Staff,180,203,Fine
+Skale-Smacking Stick,192,217,Fine
+Historian's Staff,201,226,Fine
+Terebinth Staff,210,236,Fine
+Terebinth Staff,228,257,Masterwork
+Shadowed Researcher's Staff,255,287,Masterwork
+Researcher's Staff,235,264,Fine
+Jeev's Dusty Staff,274,309,Fine
+Jeev's Glossy Staff,298,336,Masterwork
+Ebon Vanguard Staff,411,463,Rare
+Steam Staff,411,463,Rare
+Pirate Crook,411,463,Rare
+Shiverpeak Staff,411,463,Rare
+Lionguard Staff,411,463,Rare
+Lionguard Staff,411,463,Rare
+Glyphic Staff,411,463,Rare
+Krytan Staff,411,463,Rare
+Glyphic Staff,411,463,Rare
+Experimental Collection Staff,477,538,Fine
+Lionguard Staff,614,692,Rare
+Ebon Vanguard Staff,614,692,Rare
+Lionguard Staff,614,692,Rare
+Verdant Staff,614,692,Rare
+Flame Staff,614,692,Rare
+Verdant Staff,614,692,Rare
+Norn Staff,614,692,Rare
+Aureate Staff,614,692,Rare
+Test Associate's Staff Mark I,575,649,Fine
+Test Associate's Staff Mark II,622,701,Masterwork
+Adamant Guard Staff,872,984,Rare
+Wolfborn Staff,872,984,Rare
+Ebon Vanguard Staff,872,984,Rare
+Warden Staff,872,984,Rare
+Bandit Spire,751,847,Fine
+Bandit Spire,811,914,Masterwork
+Bandit Spire,872,984,Rare
+Lionguard Staff,872,984,Rare
+Seraph Staff,872,984,Rare
+Peacemaker's Staff,872,984,Rare
+Lionguard Staff,872,984,Rare
+Sharptail Short Bow,150,166,Fine
+Ancient Short Bow,150,166,Fine
+Windgrown Short Bow,150,166,Fine
+Hunter's Short Bow,162,179,Fine
+Wurm Lodge Short Bow,173,191,Fine
+Hunter's Short Bow,206,228,Fine
+Hunter's Short Bow,224,248,Masterwork
+Ebon Vanguard Short Bow,378,417,Rare
+Steam Short Bow,378,417,Rare
+Pirate Needler,378,417,Rare
+Shiverpeak Short Bow,378,417,Rare
+Lionguard Short Bow,378,417,Rare
+Lionguard Short Bow,378,417,Rare
+Glyphic Short Bow,378,417,Rare
+Krytan Short Bow,378,417,Rare
+Glyphic Short Bow,378,417,Rare
+Standard Order Short Bow,413,457,Fine
+Silenced Order Short Bow,448,495,Masterwork
+Lionguard Short Bow,564,623,Rare
+Ebon Vanguard Short Bow,564,623,Rare
+Lionguard Short Bow,564,623,Rare
+Verdant Short Bow,564,623,Rare
+Flame Short Bow,564,623,Rare
+Verdant Short Bow,564,623,Rare
+Norn Short Bow,564,623,Rare
+Aureate Short Bow,564,623,Rare
+Dryground Short Bow,492,544,Fine
+Improved Dryground Short Bow,533,589,Masterwork
+Adamant Guard Short Bow,802,886,Rare
+Wolfborn Short Bow,802,886,Rare
+Ebon Vanguard Short Bow,802,886,Rare
+Warden Short Bow,802,886,Rare
+Bandit Short Bow,802,886,Rare
+Bandit Short Bow,690,762,Fine
+Bandit Short Bow,745,823,Masterwork
+Lionguard Short Bow,802,886,Rare
+Seraph Short Bow,802,886,Rare
+Peacemaker's Short Bow,802,886,Rare
+Lionguard Short Bow,802,886,Rare
+Model RX-11 Rifle,161,197,Fine
+Militia Rifle,172,210,Fine
+Twinspur Rifle,172,210,Fine
+Separatist Rifle,184,225,Fine
+Kraitbane Model I Rifle,193,235,Fine
+Lion's Fang Model I,205,250,Fine
+Lion's Fang Model II,223,273,Masterwork
+Rifle,210,257,Fine
+Rifle,228,279,Masterwork
+Ebon Vanguard Rifle,411,503,Rare
+Steam Rifle,411,503,Rare
+Pirate Boomstick,411,503,Rare
+Shiverpeak Arquebus,411,503,Rare
+Lionguard Rifle,411,503,Rare
+Lionguard Rifle,411,503,Rare
+Glyphic Rifle,411,503,Rare
+Krytan Rifle,411,503,Rare
+Glyphic Rifle,411,503,Rare
+Scratch Rifle,468,572,Fine
+Shiny Scratch Rifle,507,620,Masterwork
+Improved Waterlogged Rifle,559,683,Masterwork
+Waterlogged Rifle,516,631,Fine
+Lionguard Rifle,614,751,Rare
+Ebon Vanguard Rifle,614,751,Rare
+Lionguard Rifle,614,751,Rare
+Verdant Rifle,614,751,Rare
+Flame Rifle,614,751,Rare
+Verdant Rifle,614,751,Rare
+Norn Rifle,614,751,Rare
+Aureate Musket,614,751,Rare
+Adamant Guard Rifle,873,1002,Rare
+Wolfborn Rifle,873,1043,Rare
+Ebon Vanguard Rifle,873,1043,Rare
+Warden Rifle,873,1043,Rare
+Bandit Musket,873,1043,Rare
+Bandit Musket,751,918,Fine
+Bandit Musket,812,992,Masterwork
+Lionguard Rifle,873,1043,Rare
+Seraph Rifle,873,1043,Rare
+Peacemaker's Rifle,873,1043,Rare
+Lionguard Rifle,873,1043,Rare
+Wooden Longbow,111,130,Basic
+Brightgrown Longbow,148,174,Fine
+Sharptail Longbow,153,179,Fine
+Ancient Longbow,153,179,Fine
+Longbow,164,193,Fine
+Wurm Lodge Longbow,176,206,Fine
+Ebon Vanguard Longbow,384,451,Rare
+Steam Bow,384,451,Rare
+Pirate Crescent,384,451,Rare
+Shiverpeak Bow,384,451,Rare
+Lionguard Bow,384,451,Rare
+Lionguard Bow,384,451,Rare
+Glyphic Longbow,384,451,Rare
+Krytan Bow,384,451,Rare
+Glyphic Longbow,384,451,Rare
+Caer Longbow,473,555,Fine
+Fine Caer Longbow,512,601,Masterwork
+Lionguard Bow,573,673,Rare
+Ebon Vanguard Longbow,573,673,Rare
+Lionguard Bow,573,673,Rare
+Verdant Bow,573,673,Rare
+Flame Bow,573,673,Rare
+Verdant Bow,573,673,Rare
+Norn Bow,573,673,Rare
+Aureate Longbow,573,673,Rare
+Dryground Village Longbow,501,587,Fine
+Sturdy Dryground Village Longbow,542,636,Masterwork
+Adamant Guard Bow,815,957,Rare
+Wolfborn Longbow,815,957,Rare
+Ebon Vanguard Longbow,815,957,Rare
+Warden Longbow,815,957,Rare
+Bandit Longbow,815,957,Rare
+Bandit Longbow,701,823,Fine
+Bandit Longbow,758,889,Masterwork
+Lionguard Bow,815,957,Rare
+Seraph Longbow,815,957,Rare
+Peacemaker's Longbow,815,957,Rare
+Lionguard Bow,815,957,Rare
+Mini Barradin's Hammer,163,184,Fine
+Soundless Hammer,172,194,Fine
+Mining Hammer,184,208,Fine
+Mace,192,217,Fine
+Enhanced Miner's Hammer Mark G,233,263,Masterwork
+Miner's Hammer Mark G,215,242,Fine
+Ebon Vanguard Hammer,411,463,Rare
+Steam Hammer,411,463,Rare
+Pirate Sledge,411,463,Rare
+Shiverpeak Maul,411,463,Rare
+Lionguard Hammer,411,463,Rare
+Lionguard Hammer,411,463,Rare
+Glyphic Maul,411,463,Rare
+Krytan Warhammer,411,463,Rare
+Glyphic Maul,411,463,Rare
+Lionguard Hammer,420,473,Masterwork
+Enhanced Miner's Hammer Mark G,388,437,Fine
+Perfected Fort Cadence Maul,516,582,Masterwork
+Perfected Fort Cadence Maul,516,582,Masterwork
+Fort Cadence Maul,477,538,Fine
+Balanced Crusader's Hammer,527,594,Masterwork
+Crusader's Hammer,486,548,Fine
+Lionguard Hammer,614,692,Rare
+Ebon Vanguard Hammer,614,692,Rare
+Lionguard Hammer,614,692,Rare
+Verdant Warhammer,614,692,Rare
+Flame Crusher,614,692,Rare
+Verdant Warhammer,614,692,Rare
+Norn Warhammer,614,692,Rare
+Norn Warhammer,614,692,Rare
+Aureate Warhammer,614,692,Rare
+Adamant Guard Hammer,872,984,Rare
+Wolfborn Hammer,872,984,Rare
+Ebon Vanguard Hammer,872,984,Rare
+Warden Hammer,872,984,Rare
+Bandit Demolisher,872,984,Rare
+Bandit Demolisher,751,847,Fine
+Bandit Demolisher,811,914,Masterwork
+Lionguard Hammer,872,984,Rare
+Seraph Hammer,872,984,Rare
+Peacemaker's Hammer,872,984,Rare
+Lionguard Hammer,872,984,Rare
+Skritt Herder,169,187,Fine
+Champion's Greatsword,178,196,Fine
+Lionguard-Issue Greatsword,194,215,Fine
+Darkvine Greatsword,199,219,Fine
+Wyld Greatsword,237,262,Fine
+Wyld Greatsword,257,284,Masterwork
+Bloodsaw Greatsword,263,290,Masterwork
+Ebon Vanguard Greatsword,415,459,Rare
+Great Steamblade,415,459,Rare
+Pirate Slayer,415,459,Rare
+Zweihander,415,459,Rare
+Lionguard Greatsword,415,459,Rare
+Lionguard Greatsword,415,459,Rare
+Glyphic Longblade,415,459,Rare
+Krytan Greatsword,415,459,Rare
+Glyphic Longblade,415,459,Rare
+Perfected Fort Cadence Longblade,522,577,Masterwork
+Lionguard Greatsword,620,686,Rare
+Ebon Vanguard Greatsword,620,686,Rare
+Lionguard Greatsword,620,686,Rare
+Verdant Greatsword,620,686,Rare
+Flame Greatsword,620,686,Rare
+Verdant Greatsword,620,686,Rare
+Norn Greatsword,620,686,Rare
+Aureate Highlander Greatsword,620,686,Rare
+Adamant Guard Greatsword,882,975,Rare
+Wolfborn Greatsword,882,975,Rare
+Ebon Vanguard Greatsword,882,975,Rare
+Warden Greatsword,882,975,Rare
+Bandit Sunderer,882,975,Rare
+Bandit Sunderer,759,839,Fine
+Bandit Sunderer,819,906,Masterwork
+Lionguard Greatsword,882,975,Rare
+Seraph Greatsword,882,975,Rare
+Peacemaker's Greatsword,882,975,Rare
+Lionguard Greatsword,882,975,Rare
+Proton Torch,144,169,Fine
+Patrol Torch,161,189,Fine
+Exterminator Torch,161,189,Fine
+Waldo's Special Torch,174,205,Masterwork
+Waldo's Torch,161,189,Fine
+Norn Night-Light,180,211,Fine
+Norn Night Light,195,229,Masterwork
+Ebon Vanguard Torch,329,386,Rare
+Steam Brand,329,386,Rare
+Pirate Brazier,329,386,Rare
+Shiverpeak Beacon,329,386,Rare
+Lionguard Brand,329,386,Rare
+Lionguard Brand,329,386,Rare
+Glyphic Brand,329,386,Rare
+Krytan Torch,329,386,Rare
+Glyphic Brand,329,386,Rare
+Southwatch Torch,397,466,Fine
+Improved Southwatch Torch,431,505,Masterwork
+Explorer's Torch,397,466,Fine
+Volatile Explorer's Torch,431,505,Masterwork
+Lionguard Brand,492,577,Rare
+Ebon Vanguard Torch,492,577,Rare
+Lionguard Brand,492,577,Rare
+Verdant Torch,492,577,Rare
+Flame Carrier,492,577,Rare
+Verdant Torch,492,577,Rare
+Norn Torch,492,577,Rare
+Aureate Sconce,492,577,Rare
+Adamant Guard Torch,699,820,Rare
+Wolfborn Torch,699,820,Rare
+Ebon Vanguard Torch,699,820,Rare
+Warden Torch,699,820,Rare
+Bandit Torch,601,706,Fine
+Bandit Torch,649,762,Masterwork
+Bandit Torch,699,820,Rare
+Lionguard Brand,699,820,Rare
+Seraph Torch,699,820,Rare
+Peacemaker's Torch,699,820,Rare
+Lionguard Brand,699,820,Rare
+Charged Focus,152,161,Fine
+Model ZIPP01 Focus,156,165,Fine
+Charged Focus,159,169,Fine
+Skale-Fin Focus,163,173,Fine
+Lost Focus,170,180,Fine
+Charr Meatoberfest Chalice,206,219,Masterwork
+Shadowed Researcher's Focus,215,228,Masterwork
+Researcher's Focus,198,210,Fine
+Jeev's Dusty Focus,232,246,Fine
+Jeev's Glossy Focus,252,268,Masterwork
+Ancient Focus,283,301,Fine
+Ancient Focus,308,327,Masterwork
+Ebon Vanguard Focus,347,368,Rare
+Steam Gizmo,347,368,Rare
+Pirate Poppet,347,368,Rare
+Shiverpeak Talisman,347,368,Rare
+Lionguard Gizmo,347,368,Rare
+Lionguard Gizmo,347,368,Rare
+Glyphic Icon,347,368,Rare
+Krytan Focus,347,368,Rare
+Glyphic Icon,347,368,Rare
+Explorer's Focus,380,403,Fine
+Reinforced Explorer's Focus,412,437,Masterwork
+Lionguard Gizmo,518,550,Rare
+Ebon Vanguard Focus,518,550,Rare
+Lionguard Gizmo,518,550,Rare
+Verdant Focus,518,550,Rare
+Flame Focus,518,550,Rare
+Verdant Focus,518,550,Rare
+Norn Focus,518,550,Rare
+Aureate Charm,518,550,Rare
+Brackwater Village Focus,469,498,Fine
+Improved Brackwater Village Focus,507,539,Masterwork
+Adamant Guard Gizmo,737,782,Rare
+Wolfborn Focus,737,782,Rare
+Ebon Vanguard Focus,737,782,Rare
+Warden Focus,737,782,Rare
+Bandit Focus,737,782,Rare
+Bandit Focus,634,673,Fine
+Bandit Focus,685,727,Masterwork
+Lionguard Gizmo,737,782,Rare
+Seraph Focus,737,782,Rare
+Peacemaker's Focus,737,782,Rare
+Lionguard Gizmo,737,782,Rare
+Shortsword,109,121,Basic
+Skritt Poker,154,170,Fine
+Militia Sword,158,174,Fine
+Hemlocked Sword,162,179,Fine
+Sword of Ascalon,173,191,Fine
+Lionguard-Issue Sword,184,204,Fine
+Bloodsaw Sword,239,264,Masterwork
+Ebon Vanguard Sword,378,417,Rare
+Steamblade,378,417,Rare
+Pirate Cutlass,378,417,Rare
+Einhander,378,417,Rare
+Lionguard Sword,378,417,Rare
+Lionguard Sword,378,417,Rare
+Glyphic Edge,378,417,Rare
+Krytan Sword,378,417,Rare
+Glyphic Edge,378,417,Rare
+Patient Sword,329,363,Fine
+Patient Sword,357,394,Masterwork
+Crusader's Sword,484,535,Masterwork
+Crusader's Sword,447,494,Fine
+Mountain Sword,456,504,Fine
+Mountain Sword,494,546,Masterwork
+Lionguard Sword,564,623,Rare
+Ebon Vanguard Sword,564,623,Rare
+Lionguard Sword,564,623,Rare
+Verdant Blade,564,623,Rare
+Flame Blade,564,623,Rare
+Verdant Blade,564,623,Rare
+Norn Blade,564,623,Rare
+Aureate Rinblade,564,623,Rare
+Caer Brier Sword,562,621,Masterwork
+Briar Sword,520,574,Fine
+Valoric Sword,602,665,Fine
+Valoric Sword,651,719,Masterwork
+Adamant Guard Blade,802,886,Rare
+Wolfborn Sword,802,886,Rare
+Ebon Vanguard Sword,802,886,Rare
+Warden Sword,802,886,Rare
+Bandit Slicer,690,762,Fine
+Bandit Slicer,745,823,Masterwork
+Bandit Slicer,802,886,Rare
+Lionguard Sword,802,886,Rare
+Seraph Sword,802,886,Rare
+Peacemaker's Sword,802,886,Rare
+Lionguard Sword,802,886,Rare
+Wooden Rod,104,122,Basic
+Charged Scepter,164,185,Fine
+Model ZIPP01 Scepter,167,189,Fine
+Charged Scepter,171,193,Fine
+Skale Zapper,175,197,Fine
+Portal Shatterer,182,206,Fine
+Shadowed Researcher's Scepter,231,261,Masterwork
+Researcher's Scepter,213,240,Fine
+Jeev's Dusty Scepter,249,281,Fine
+Jeev's Glossy Scepter,271,306,Masterwork
+Ebon Vanguard Scepter,374,421,Rare
+Steam Scepter,374,421,Rare
+Pirate Cane,374,421,Rare
+Shiverpeak Wand,374,421,Rare
+Lionguard Scepter,374,421,Rare
+Lionguard Scepter,374,421,Rare
+Glyphic Scepter,374,421,Rare
+Krytan Scepter,374,421,Rare
+Glyphic Scepter,374,421,Rare
+Magi's Soft Wood Scepter,399,450,Masterwork
+Priory Explorer's Scepter,409,461,Fine
+Reinforced Priory Explorer's Scepter,443,500,Masterwork
+Lionguard Scepter,558,629,Rare
+Ebon Vanguard Scepter,558,629,Rare
+Lionguard Scepter,558,629,Rare
+Verdant Scepter,558,629,Rare
+Flame Scepter,558,629,Rare
+Verdant Scepter,558,629,Rare
+Norn Scepter,558,629,Rare
+Aureate Virge,558,629,Rare
+Improved Brackwater Scepter,546,616,Masterwork
+Brackwater Scepter,505,570,Fine
+Adamant Guard Scepter,793,894,Rare
+Wolfborn Scepter,793,894,Rare
+Ebon Vanguard Scepter,793,894,Rare
+Warden Scepter,793,894,Rare
+Bandit Baton,793,894,Rare
+Bandit Baton,683,770,Fine
+Bandit Baton,737,831,Masterwork
+Lionguard Scepter,793,894,Rare
+Seraph Scepter,793,894,Rare
+Peacemaker's Scepter,793,894,Rare
+Lionguard Scepter,793,894,Rare
+Pistol,109,128,Basic
+Twinspur Pistol,153,179,Fine
+Trusty Pistol,157,184,Fine
+Hunting Pistol,157,184,Fine
+Separatist Pistol,164,192,Fine
+Kraitbane Model I Pistol,171,201,Fine
+Lion's Claw Model I,182,214,Fine
+Lion's Claw Model II,198,233,Masterwork
+Twitchok's Trusty Pistol,187,219,Fine
+Twitchok's Trusty Pistol,203,238,Masterwork
+Ebon Vanguard Pistol,366,429,Rare
+Steam Pistol,366,429,Rare
+Pirate Flintlock,366,429,Rare
+Shiverpeak Handcannon,366,429,Rare
+Lionguard Pistol,366,429,Rare
+Lionguard Pistol,366,429,Rare
+Glyphic Pistol,366,429,Rare
+Krytan Pistol,366,429,Rare
+Glyphic Pistol,366,429,Rare
+Sentinel's Pistol,325,382,Fine
+Sentinel's Pistol,352,414,Masterwork
+Sentinel's Pistol,352,414,Masterwork
+Ratatosk Pistol,345,405,Fine
+Ratatosk Pistol,374,438,Masterwork
+Whisper Model KX Pistol,425,499,Masterwork
+Whisper Model K Pistol,392,460,Fine
+Rich Treasure Hunter's Pistol,497,583,Masterwork
+Treasure Hunter's Pistol,459,539,Fine
+Lionguard Pistol,546,641,Rare
+Ebon Vanguard Pistol,546,641,Rare
+Lionguard Pistol,546,641,Rare
+Verdant Pistol,546,641,Rare
+Flame Pistol,546,641,Rare
+Verdant Pistol,546,641,Rare
+Norn Pistol,546,641,Rare
+Aureate Pistol,546,641,Rare
+Arundon Pistol,572,672,Fine
+Arundon Pistol,619,727,Masterwork
+Adamant Guard Pistol,776,911,Rare
+Wolfborn Pistol,776,911,Rare
+Ebon Vanguard Pistol,776,911,Rare
+Warden Pistol,776,911,Rare
+Bandit Revolver,776,911,Rare
+Bandit Revolver,668,784,Fine
+Bandit Revolver,722,847,Masterwork
+Lionguard Pistol,776,911,Rare
+Seraph Pistol,776,911,Rare
+Peacemaker's Pistol,776,911,Rare
+Lionguard Pistol,776,911,Rare
+Dull Dagger,115,122,Basic
+Briarthorn Dagger,153,163,Fine
+Trader's Dagger,157,167,Fine
+Model L-12 Dissection Tool,161,171,Fine
+Ash Legion Scout Blade,184,196,Fine
+Carving Knife,184,196,Fine
+Backwoods Dagger,204,217,Masterwork
+Krytan Dagger,188,200,Fine
+Razor-Sharp Dagger,206,219,Fine
+Razor-Sharp Dagger,224,238,Masterwork
+Ebon Vanguard Dagger,385,409,Rare
+Steam Dagger,385,409,Rare
+Pirate Bloodletter,385,409,Rare
+Shiverpeak Dirk,385,409,Rare
+Lionguard Dagger,385,409,Rare
+Lionguard Dagger,385,409,Rare
+Glyphic Handblade,385,409,Rare
+Krytan Dagger,385,409,Rare
+Glyphic Handblade,385,409,Rare
+Order Dagger,422,448,Fine
+Silenced Dagger,457,486,Masterwork
+Improved Pirate Handblade,524,556,Masterwork
+Pirate Handblade,484,514,Fine
+Lionguard Dagger,576,611,Rare
+Ebon Vanguard Dagger,576,611,Rare
+Lionguard Dagger,576,611,Rare
+Verdant Dagger,576,611,Rare
+Flame Dagger,576,611,Rare
+Verdant Dagger,576,611,Rare
+Norn Dagger,576,611,Rare
+Aureate Dirk,576,611,Rare
+Adamant Guard Dagger,819,869,Rare
+Wolfborn Dagger,819,869,Rare
+Ebon Vanguard Dagger,819,869,Rare
+Warden Dagger,819,869,Rare
+Bandit Shiv,819,869,Rare
+Bandit Shiv,704,748,Fine
+Bandit Shiv,761,808,Masterwork
+Lionguard Dagger,819,869,Rare
+Seraph Dagger,819,869,Rare
+Peacemaker's Dagger,819,869,Rare
+Lionguard Dagger,819,869,Rare
+Shank Dagger,704,748,Fine
+Shank Dagger,761,808,Masterwork
+Wardenhurst Mace,140,157,Fine
+Wardenhurst Mace,140,157,Fine
+Force-Amplifying Impact Device,160,180,Fine
+Champion's Mace,160,180,Fine
+Elmder's Mace,160,180,Fine
+Enhanced Miner's Mace Mark G,212,239,Masterwork
+Miner's Mace Mark G,195,220,Fine
+Lionguard Iron Mace,261,295,Fine
+Lionguard Steel Mace,284,320,Masterwork
+Ebon Vanguard Mace,374,421,Rare
+Steam Mace,374,421,Rare
+Pirate Billy,374,421,Rare
+Shiverpeak Club,374,421,Rare
+Lionguard Mace,374,421,Rare
+Lionguard Mace,374,421,Rare
+Glyphic Mace,374,421,Rare
+Krytan Mace,374,421,Rare
+Glyphic Mace,374,421,Rare
+Crusader's Mace,442,498,Fine
+Balanced Crusader's Mace,479,540,Masterwork
+Lionguard Mace,558,629,Rare
+Ebon Vanguard Mace,558,629,Rare
+Lionguard Mace,558,629,Rare
+Verdant Mace,558,629,Rare
+Flame Mace,558,629,Rare
+Verdant Mace,558,629,Rare
+Aureate Mace,558,629,Rare
+Caer Brier Mace,556,627,Masterwork
+Briar Mace,514,580,Fine
+Adamant Guard Mace,793,894,Rare
+Wolfborn Mace,793,894,Rare
+Ebon Vanguard Mace,793,894,Rare
+Warden Mace,793,894,Rare
+Bandit Mallet,793,894,Rare
+Bandit Mallet,683,770,Fine
+Bandit Mallet,737,831,Masterwork
+Lionguard Mace,793,894,Rare
+Seraph Mace,793,894,Rare
+Peacemaker's Mace,793,894,Rare
+Lionguard Mace,793,894,Rare
+Will's Spear,165,183,Fine
+Hylek Crab Skewer,169,187,Fine
+Iron Legion Harpoon,169,187,Fine
+Quetzal Harpoon,169,187,Fine
+Aethervolt Spear,205,226,Masterwork
+Aethervolt Spear,188,208,Fine
+Truffle-Baited Harpoon,234,258,Masterwork
+Togatl Harpoon,216,238,Fine
+Steam Spear,378,417,Rare
+Pirate Harpoon,378,417,Rare
+Shiverpeak Spear,378,417,Rare
+Lionguard Spear,378,417,Rare
+Lionguard Spear,378,417,Rare
+Glyphic Spear,378,417,Rare
+Krytan Spear,378,417,Rare
+Glyphic Spear,378,417,Rare
+Hunter's Harpoon,474,524,Fine
+Fine Hunter's Harpoon,513,567,Masterwork
+Lionguard Spear,564,623,Rare
+Lionguard Spear,564,623,Rare
+Verdant Spear,564,623,Rare
+Flame Spear,564,623,Rare
+Verdant Spear,564,623,Rare
+Norn Spear,564,623,Rare
+Aureate Spear,564,623,Rare
+Shipwreck Spear,501,554,Fine
+Improved Shipwreck Spear,542,599,Masterwork
+Adamant Guard Spear,802,886,Rare
+Wolfborn Harpoon,802,886,Rare
+Warden Spear,802,886,Rare
+Iron Polearm,802,886,Rare
+Iron Polearm,690,762,Fine
+Iron Polearm,745,823,Fine
+Lionguard Spear,802,886,Fine
+Seraph Spear,802,886,Fine
+Peacemaker's Spear,802,886,Fine
+Lionguard Spear,802,886,Fine
+Speargun,165,183,Fine
+Hylek Fishing Pole,169,187,Fine
+Iron Legion Speargun,169,187,Fine
+Quetzal Speargun,169,187,Fine
+Truffle-Baited Speargun,234,258,Masterwork
+Togotl Speargun,216,238,Fine
+Ebon Vanguard Speargun,378,417,Rare
+Steam Speargun,378,417,Rare
+Pirate Speargun,378,417,Rare
+Shiverpeak Speargun,378,417,Rare
+Lionguard Cannon,378,417,Rare
+Lionguard Cannon,378,417,Rare
+Glyphic Speargun,378,417,Rare
+Krytan Speargun,378,417,Rare
+Glyphic Speargun,378,417,Rare
+Hunter's Speargun,474,524,Fine
+Fine Hunter's Speargun,513,567,Masterwork
+Lionguard Cannon,564,623,Rare
+Ebon Vanguard Speargun,564,623,Rare
+Lionguard Cannon,564,623,Rare
+Verdant Speargun,564,623,Rare
+Flame Speargun,564,623,Rare
+Verdant Speargun,564,623,Rare
+Norn Speargun,564,623,Rare
+Aureate Speargun,564,623,Rare
+Improved Shipwreck Speargun,542,599,Masterwork
+Shipwreck Speargun,501,554,Fine
+Adamant Guard Cannon,802,886,Rare
+Wolfborn Speargun,802,886,Rare
+Ebon Vanguard Speargun,802,886,Rare
+Warden Speargun,802,886,Rare
+Steam Speargun,690,762,Fine
+Steam Speargun,745,823,Masterwork
+Steam Speargun,802,886,Rare
+Lionguard Cannon,802,886,Rare
+Seraph Speargun,802,886,Rare
+Peacemaker's Speargun,802,886,Rare
+Lionguard Cannon,802,886,Rare
+Militia Shield,141,158,Fine
+Ash Legion Shield,154,174,Fine
+Fisher's Shield,154,174,Fine
+Shield of Ascalon,154,174,Fine
+Lionguard-Issue Shield,164,185,Fine
+Radiation Shield,164,185,Fine
+Shield,172,194,Fine
+Shield,187,211,Masterwork
+Ash Legion Shield,172,194,Fine
+Ash Legion Shield,187,211,Masterwork
+Ebon Vanguard Shield,336,379,Rare
+Steam Shield,336,379,Rare
+Pirate Barricade,336,379,Rare
+Shiverpeak Shield,336,379,Rare
+Foewatch Shield,311,351,Masterwork
+Foewatch Shield,287,323,Fine
+Lionguard Shield,336,379,Rare
+Lionguard Shield,336,379,Rare
+Glyphic Ward,336,379,Rare
+Krytan Shield,336,379,Rare
+Glyphic Ward,336,379,Rare
+Patient Shield,293,330,Fine
+Patient Shield,318,358,Masterwork
+Mountain Shield,440,496,Masterwork
+Mountain Shield,406,458,Fine
+Lionguard Shield,502,566,Rare
+Ebon Vanguard Shield,502,566,Rare
+Lionguard Shield,502,566,Rare
+Verdant Shield,502,566,Rare
+Flame Guard,502,566,Rare
+Verdant Shield,502,566,Rare
+Norn Shield,502,566,Rare
+Aureate Targe,502,566,Rare
+Caer Brier Ward,500,564,Masterwork
+Briar Ward,463,522,Fine
+Wayward Shield,545,615,Fine
+Wayward Shield,589,665,Masterwork
+Adamant Guard Shield,714,805,Rare
+Wolfborn Shield,714,805,Rare
+Ebon Vanguard Shield,714,805,Rare
+Warden Shield,714,805,Rare
+Bandit Ward,614,693,Fine
+Bandit Ward,664,748,Masterwork
+Bandit Ward,714,805,Rare
+Lionguard Shield,714,805,Rare
+Seraph Shield,714,805,Rare
+Peacemaker's Shield,714,805,Rare
+Lionguard Shield,714,805,Rare
